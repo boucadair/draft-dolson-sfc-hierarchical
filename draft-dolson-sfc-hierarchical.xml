@@ -9,8 +9,8 @@
 "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.draft-homma-sfc-forwarding-methods-analysis-01.xml">
 <!ENTITY I-D.draft-ietf-sfc-nsh SYSTEM 
 "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.draft-ietf-sfc-nsh-00.xml">
-<!ENTITY I-D.draft-ietf-sfc-architecture SYSTEM 
-"http://xml.resource.org/public/rfc/bibxml3/reference.I-D.draft-ietf-sfc-architecture-07.xml">
+<!ENTITY RFC7665 SYSTEM 
+"http://xml.resource.org/public/rfc/bibxml3/reference.RFC.7665.xml">
 <!ENTITY I-D.draft-ietf-sfc-dc-use-cases SYSTEM 
 "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.draft-ietf-sfc-dc-use-cases-02.xml">
 ]>
@@ -154,7 +154,7 @@
         Service Function Chaining (SFC) is a technique for prescribing 
         differentiated traffic forwarding policies within the SFC domain.
         SFC is described in detail in the
-        <xref target="I-D.ietf-sfc-architecture">
+        <xref target="RFC7665">
          SFC architecture document
         </xref>,
         and is not repeated here.
